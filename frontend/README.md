@@ -2,7 +2,7 @@
   ProfRater - Find Your Perfect Professor with AI
 </h1>
 
-<img width="1280" alt="Astra Thumbnail" src="https://github.com/user-attachments/assets/8d11fc9c-8220-4d36-a0e3-271b73a7f23d">
+
 
 
 ## Introduction
@@ -56,8 +56,7 @@ Make sure that you have installed
    ```
 6. Open your browser and navigate to http://localhost:3000 to see the website in action.
 
-## Assets
-Download all the assets required for this project [here](https://drive.google.com).
+
 
 
    

@@ -1,0 +1,100 @@
+{
+  "reviews": [
+    {
+      "professor": "Jack Ryan",
+      "review": "Not that great professor...",
+      "subject": "Math",
+      "stars": 3.5
+    },
+      {
+      "professor": "Natasha Romanoff",
+      "review": "Awesome professor...",
+      "subject": "Philosophy",
+      "stars": 4.5
+    },
+      {
+      "professor": "Tony Stark",
+      "review": "Great professor...",
+      "subject": "Science",
+      "stars": 5
+    },
+      {
+      "professor": "Simon",
+      "review": "Fantastic professor...",
+      "subject": "History",
+      "stars": 4.9
+    },
+      {
+      "professor": "Rahul Dua",
+      "review": "Amazing professor...",
+      "subject": "Computer Science",
+      "stars": 4.8
+    },
+      {
+      "professor": "Joe Trump",
+      "review": "Okaish professor...",
+      "subject": "Math",
+      "stars": 3.9
+    },
+      {
+    "professor": "John Doe",
+    "review": "Very knowledgeable and approachable.",
+    "subject": "Physics",
+    "stars": 4.7
+  },
+      {
+    "professor": "Jane Smith",
+    "review": "Engaging lectures, but grading is tough.",
+    "subject": "Literature",
+    "stars": 3.8
+  },
+      {
+    "professor": "Bruce Wayne",
+    "review": "Brilliant professor with real-world experience.",
+    "subject": "Criminal Justice",
+    "stars": 4.9
+  },
+      {
+    "professor": "Diana Prince",
+    "review": "Passionate and inspiring teacher.",
+    "subject": "History",
+    "stars": 4.6
+  },
+      {
+    "professor": "Clark Kent",
+    "review": "Superb teaching style, makes complex topics easy.",
+    "subject": "Journalism",
+    "stars": 5.0
+  },
+      {
+    "professor": "Peter Parker",
+    "review": "Friendly, but often late to class.",
+    "subject": "Photography",
+    "stars": 3.6
+  },
+      {
+    "professor": "Sherlock Holmes",
+    "review": "Challenging but incredibly rewarding.",
+    "subject": "Forensic Science",
+    "stars": 4.8
+  },
+      {
+    "professor": "Walter White",
+    "review": "Excellent at explaining difficult concepts.",
+    "subject": "Chemistry",
+    "stars": 4.7
+  },
+      {
+    "professor": "Hermione Granger",
+    "review": "Top-notch professor with a deep understanding of the subject.",
+    "subject": "Magic Studies",
+    "stars": 4.9
+  },
+      {
+    "professor": "Jon Snow",
+    "review": "Very committed, but sometimes hard to follow.",
+    "subject": "Medieval History",
+    "stars": 4.1
+  }
+  ]
+}

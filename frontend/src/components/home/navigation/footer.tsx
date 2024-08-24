@@ -30,34 +30,36 @@ const Footer = () => {
           <ul className="mt-4 text-sm text-muted-foreground">
             <li className="mt-2">
               <Link
-                href="https://www.linkedin.com/in/member1"
+                href="https://www.linkedin.com/in/a-shubham-verma/"
                 className="hover:text-foreground transition-all duration-300"
               >
-                Member 1
+                Shubham Verma
               </Link>
             </li>
             <li className="mt-2">
               <Link
-                href="https://www.linkedin.com/in/member2"
+                href="https://www.linkedin.com/in/tirthgshah/
+"
                 className="hover:text-foreground transition-all duration-300"
               >
-                Member 2
+                Tirth Shah
               </Link>
             </li>
             <li className="mt-2">
               <Link
-                href="https://www.linkedin.com/in/member3"
+                href="https://www.linkedin.com/in/tharan-bala/
+"
                 className="hover:text-foreground transition-all duration-300"
               >
-                Member 3
+                Tharan Bala
               </Link>
             </li>
             <li className="mt-2">
               <Link
-                href="https://www.linkedin.com/in/member4"
+                href="https://www.linkedin.com/in/shobygnanasekaran"
                 className="hover:text-foreground transition-all duration-300"
               >
-                Member 4
+                Shoby Gnana Sekaran
               </Link>
             </li>
           </ul>
